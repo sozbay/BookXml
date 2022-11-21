@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Books>
+    <Book>
+        <BookName>Devlet Ana</BookName>
+        <Author>Kemal Tahir</Author>
+    </Book>
+    <Book>
+        <BookName>Bir Gün Tek Başına</BookName>
+        <Author>Vedat Türkali</Author>
+    </Book>
+    <Book>
+        <BookName>Hakkari'de Bir Mevsim</BookName>
+        <Author>Ferit Edgü</Author>
+    </Book>
+    <Book>
+        <BookName>Kuyucaklı Yusuf</BookName>
+        <Author>Sabahattin Ali</Author>
+    </Book>
+    <Book>
+        <BookName>Yenişehir'de Bir Öğle Vakti</BookName>
+        <Author>Sevgi Soysal</Author>
+    </Book>
+    <Book>
+        <BookName>Mai ve Siyah</BookName>
+        <Author>Halit Ziya Uşaklıgil</Author>
+    </Book>
+    <Book>
+        <BookName>Kıskanmak</BookName>
+        <Author>Nahid Sırrı Örik</Author>
+    </Book>
+    <Book>
+        <BookName>Cevdet Bey ve Oğulları</BookName>
+        <Author>Orhan Pamuk</Author>
+    </Book>
+    <Book>
+        <BookName>Eylül</BookName>
+        <Author>Mehmet Rauf</Author>
+    </Book>
+    <Book>
+        <BookName>Gece</BookName>
+        <Author>Bilge Karasu</Author>
+    </Book>
+    <Book>
+        <BookName>Fahim Bey ve Biz</BookName>
+        <Author>Abdülhak Şinasi Hisar</Author>
+    </Book>
+    <Book>
+        <BookName>47'liler</BookName>
+        <Author>Füruzan</Author>
+    </Book>
+    <Book>
+        <BookName>Gölgesizler</BookName>
+        <Author>Hasan Ali Toptaş</Author>
+    </Book>
+    <Book>
+        <BookName>Demirciler Çarşısı Cinayeti</BookName>
+        <Author>Yaşar Kemal</Author>
+    </Book>
+    <Book>
+        <BookName>Yorgun Savaşçı</BookName>
+        <Author>Kemal Tahir</Author>
+    </Book>
+    <Book>
+        <BookName>Murtaza</BookName>
+        <Author>Orhan Kemal</Author>
+    </Book>
+    <Book>
+        <BookName>Yer Demir Gök Bakır</BookName>
+        <Author>Yaşar Kemal</Author>
+    </Book>
+    <Book>
+        <BookName>Tuhaf Bir Kadın</BookName>
+        <Author>Leyla Erbil</Author>
+    </Book>
+    <Book>
+        <BookName>Ağır Roman</BookName>
+        <Author>Metin Kaçan</Author>
+    </Book>
+</Books>

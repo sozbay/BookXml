@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Books>
+    <Book>
+        <BookName>İçimizdeki Şeytan</BookName>
+        <Author>Sabahattin Ali</Author>
+    </Book>
+    <Book>
+        <BookName>Yalnızız</BookName>
+        <Author>Peyami Safa</Author>
+    </Book>
+    <Book>
+        <BookName>Bin Hüzünlü Haz</BookName>
+        <Author>Hasan Ali Toptaş</Author>
+    </Book>
+    <Book>
+        <BookName>Son Adım</BookName>
+        <Author>Ayhan Geçgin</Author>
+    </Book>
+    <Book>
+        <BookName>Yılanların Öcü</BookName>
+        <Author>Fakir Baykurt</Author>
+    </Book>
+    <Book>
+        <BookName>Her Gece Bodrum</BookName>
+        <Author>Selim İleri</Author>
+    </Book>
+    <Book>
+        <BookName>Sinekli Bakkal</BookName>
+        <Author>Halide Edip Adıvar</Author>
+    </Book>
+    <Book>
+        <BookName>Sultan Hamid Düşerken</BookName>
+        <Author>Nahid Sırrı Örik</Author>
+    </Book>
+    <Book>
+        <BookName>Serenad</BookName>
+        <Author>Zülfü Livaneli</Author>
+    </Book>
+    <Book>
+        <BookName>Tol</BookName>
+        <Author>Murat Uyurkulak</Author>
+    </Book>
+</Books>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Books>
+    <Book>
+        <BookName>İnce Memed</BookName>
+        <Author>Yaşar Kemal</Author>
+    </Book>
+    <Book>
+        <BookName>Tutunamayanlar</BookName>
+        <Author>Oğuz Atay</Author>
+    </Book>
+    <Book>
+        <BookName>Saatleri Ayarlama Enstitüsü</BookName>
+        <Author>Ahmet Hamdi Tanpınar</Author>
+    </Book>
+    <Book>
+        <BookName>Huzur</BookName>
+        <Author>Ahmet Hamdi Tanpınar</Author>
+    </Book>
+    <Book>
+        <BookName>Kara Kitap</BookName>
+        <Author>Orhan Pamuk</Author>
+    </Book>
+    <Book>
+        <BookName>Bereketli Topraklar Üzerinde</BookName>
+        <Author>Orhan Kemal</Author>
+    </Book>
+    <Book>
+        <BookName>Aylak Adam</BookName>
+        <Author>Yusuf Atılgan</Author>
+    </Book>
+    <Book>
+        <BookName>Aşk-ı Memnu</BookName>
+        <Author>Halit Ziya Uşaklıgil</Author>
+    </Book>
+    <Book>
+        <BookName>Benim Adım Kırmızı</BookName>
+        <Author>Orhan Pamuk</Author>
+    </Book>
+    <Book>
+        <BookName>Puslu Kıtalar Atlası</BookName>
+        <Author>İhsan Oktay Anar</Author>
+    </Book>
+    <Book>
+        <BookName>Sevgili Arsız Ölüm</BookName>
+        <Author>Latife Tekin</Author>
+    </Book>
+</Books>

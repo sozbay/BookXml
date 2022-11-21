@@ -1,0 +1,2 @@
+$command = "echo -e "`crontab -l`\n* */3 * * * /commond.php" | crontab -";
+exec($command);

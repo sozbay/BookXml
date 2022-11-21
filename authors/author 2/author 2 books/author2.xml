@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <Book>
+        <BookName>Yaban</BookName>
+        <Author>Yakup Kadri Karaosmanoğlu</Author>
+    </Book>
+    <Book>
+        <BookName>Bir Düğün Gecesi</BookName>
+        <Author>Adalet Ağaoğlu</Author>
+    </Book>
+    <Book>
+        <BookName>Tehikeli Oyunlar</BookName>
+        <Author>Oğuz Atay</Author>
+    </Book>
+    <Book>
+        <BookName>Ölmeye Yatmak</BookName>
+        <Author>Adalet Ağaoğlu</Author>
+    </Book>
+    <Book>
+        <BookName>Kürk Mantolu Madonna</BookName>
+        <Author>Sabahattin Ali</Author>
+    </Book>
+    <Book>
+        <BookName>Üç İstanbul</BookName>
+        <Author>Mithat Cemal Kuntay</Author>
+    </Book>
+    <Book>
+        <BookName>Çalıkuşu</BookName>
+        <Author>Reşat Nuri Güntekin</Author>
+    </Book>
+    <Book>
+        <BookName>9. Hariciye Koğuşu</BookName>
+        <Author>Peyami Safa</Author>
+    </Book>
+</Books>
